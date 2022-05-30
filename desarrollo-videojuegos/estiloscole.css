@@ -1,0 +1,148 @@
+@charset "utf-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h2{
+	font::bold 14 px Verdana, Geneva, sans-serif;
+}
+header, section, footer, aside, nav, article, figure, figcaption, hgroup{
+	display:block;
+}
+
+body{
+	text-align: center;
+	color: #000000;
+	font:"Palatino Linotype", "Book Antiqua", Palatino, serif
+	
+}
+body {
+	background-image: url(Im%C3%A1genes/stylish-hexagonal-line-pattern-background_1017-19742.jpg);
+	background-repeat: repeat;
+}
+body,td,th {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#agrupar{
+	width: 960px;
+	margin: 15px auto;
+	text-align:left;
+}
+
+#cabecera{
+	background:;
+	border: 1px solid;
+	padding: 20px;
+	background-color: #FB7E68;
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	color: #000;
+	background-image: url(Im%C3%A1genes/yLk-videojuegos-destacada.jpg);
+	font-style: italic;
+	background-position: 20%;
+}
+#boton{
+	padding:0;
+}
+#boton li {
+	display: inline;
+}
+
+#boton li a{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	color: #000
+}
+
+#boton li a:hover {
+	background-color: #BF792D;
+	margin-top: -2;
+	padding-bottom: 12px;
+	color: #FFF;
+}
+#menu {
+	padding: 5px 15px;
+	text-decoration: none;
+	background-color: #EB9A49;
+}
+#menu li{
+	display: inline-block;
+	list-style: none;
+	padding: 5px;
+	text-decoration:none;
+	font: bold 14 px Arial, Helvetica, sans-serif;
+}
+
+#tabla {
+	background-color: #FCD7AD;
+	<tbody style= background: #FCD7AD>
+	
+}
+
+
+
+#seccion {
+	float: left;
+	width: 660px;
+	margin-top: 22px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+	
+
+#columna{
+	float: left;
+	width: 220px;
+	margin: 20 px 0 px;
+	padding: 20px;
+	color: #000;
+	background-color: #94CFDC;
+}
+
+#pie{
+	clear:both;
+	text-align:center;
+	padding: 20px;
+	border-top: 2px solid #999999
+}
+.footer {
+	font-style: italic;
+	text-align: center;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	display: block;
+}
+
+article {
+	padding; 20px;
+	margin-bottom: 15px;
+	text-align: left;
+	border: 2px solid #CCA56A;
+	background-color: #FEF5E7;
+}
+
+article footer {
+	text-align:right;
+}
+
+time {
+	color: #999999;
+}
+
+figcaption{
+	font: italic 14px"Lucida Sans Unicode", "Lucida Grande", sans-serif 
